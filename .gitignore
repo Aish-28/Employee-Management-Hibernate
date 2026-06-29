@@ -1,0 +1,23 @@
+# Maven
+target/
+
+# Eclipse
+.settings/
+.metadata/
+
+# Compiled Java files
+*.class
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code (if you open the project there)
+.vscode/
+
+# IntelliJ IDEA (if you open the project there)
+.idea/
+*.iml
